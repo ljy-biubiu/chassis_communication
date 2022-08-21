@@ -1,0 +1,7 @@
+bool need_setting
+int64 send_id
+int64 recv_id
+float64 setting_start_time
+bool set_read_switch
+float64 set_read_switch_time
+float64 set_timeout

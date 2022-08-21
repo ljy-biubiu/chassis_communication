@@ -1,0 +1,18 @@
+Header header
+int8 state
+string state_msg
+uint64 major_id_send
+float64 major_id_send_time
+uint64 major_id_recv
+uint64 minor_id_send
+float64 minor_id_send_time
+uint64 minor_id_recv
+float64 wait_respon_timeout_secs
+uint8 recv_210_src
+uint8 recv_210_dest
+uint8 recv_210_run_area
+uint8 recv_210_update_status
+string recv_210_boot_ver
+string recv_210_app_ver
+string recv_210_update_lib_ver
+

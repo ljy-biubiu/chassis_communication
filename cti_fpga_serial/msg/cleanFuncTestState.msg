@@ -1,0 +1,15 @@
+# message for clean function test state
+bool clean_function_enable
+float64 time_recv
+float64 timeout_secs
+float64 test_time_left
+uint8 spray_motor
+uint8 damboard_status
+uint8 side_brush_transform_state
+uint8 side_brush_speed
+uint8 fanspeed
+uint8 recv_spray_motor
+uint8 recv_damboard_status
+uint8 recv_side_brush_transform_state
+uint8 recv_side_brush_speed
+uint8 recv_fanspeed
