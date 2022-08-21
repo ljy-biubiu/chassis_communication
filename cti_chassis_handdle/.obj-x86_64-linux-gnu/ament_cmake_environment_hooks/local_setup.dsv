@@ -1,0 +1,2 @@
+source;share/cti_chassis_handdle/environment/ament_prefix_path.sh
+source;share/cti_chassis_handdle/environment/path.sh
